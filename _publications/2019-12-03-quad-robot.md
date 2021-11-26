@@ -5,6 +5,6 @@ permalink: /publication/2019-10-01-quad-robot
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2019-12-03
 venue: 'IEEE TVCG'
-paperurl: 'http://academicpages.github.io/files/quad-robots.pdf'
+paperurl: 'http://hanke98.github.io/files/quad-robots.pdf'
 ---
 [Download paper here](http://academicpages.github.io/files/quad-robots.pdf)
