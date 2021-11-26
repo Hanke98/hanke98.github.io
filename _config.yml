@@ -85,8 +85,8 @@ author:
   bio              : "Ph.D Student at Zhejiang University"
   location         : "Hangzhou, Zhejiang"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=3tJEqk4AAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
