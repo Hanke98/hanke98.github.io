@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2019-10-01-quad-robot
 date: 2019-12-03
 venue: 'IEEE TVCG'
-paperurl: 'http://hanke98.github.io/files/quad-robots.pdf'
+paperurl: 'http://hanke98.github.io/files/quad_robots.pdf'
 ---
-[Download paper here](http://academicpages.github.io/files/quad-robots.pdf)
+[Paper](http://academicpages.github.io/files/quad_robots.pdf)
